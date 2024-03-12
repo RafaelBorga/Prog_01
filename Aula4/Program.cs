@@ -37,3 +37,4 @@ WriteLine();
 WriteLine($"XOR  | b_A  | b_B  ");
 WriteLine($"b_A  | {b_A ^ b_A, -5}| {b_A ^ b_B, -5}");
 WriteLine($"b_B  | {b_B ^ b_A, -5}| {b_B ^ b_B, -5}");
+//
