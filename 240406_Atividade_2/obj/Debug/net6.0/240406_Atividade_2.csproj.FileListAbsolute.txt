@@ -1,0 +1,15 @@
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.csproj.AssemblyReference.cache
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.AssemblyInfoInputs.cache
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.AssemblyInfo.cs
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.csproj.CoreCompileInputs.cache
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\bin\Debug\net6.0\240406_Atividade_2.exe
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\bin\Debug\net6.0\240406_Atividade_2.deps.json
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\bin\Debug\net6.0\240406_Atividade_2.runtimeconfig.json
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\bin\Debug\net6.0\240406_Atividade_2.dll
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\bin\Debug\net6.0\240406_Atividade_2.pdb
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.dll
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\refint\240406_Atividade_2.dll
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.pdb
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\240406_Atividade_2.genruntimeconfig.cache
+C:\Users\gianb\OneDrive\Área de Trabalho\Programação_01\Exercicios\240406_Atividade_2\obj\Debug\net6.0\ref\240406_Atividade_2.dll
